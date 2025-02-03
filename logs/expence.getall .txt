@@ -1,0 +1,1 @@
+Error: SQLITE_RANGE: column index out of range
